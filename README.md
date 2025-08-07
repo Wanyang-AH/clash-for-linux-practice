@@ -1,6 +1,6 @@
 [TOC]
 
-# 项目介绍
+# 项目介绍  ： 小安修订版本
 
 此项目是通过使用开源项目[clash（已跑路）](https://github.com/Dreamacro/clash)作为核心程序，再结合脚本实现简单的代理功能。<br>
 clash核心备份仓库[Clash-backup](https://github.com/Elegycloud/clash-for-linux-backup)
